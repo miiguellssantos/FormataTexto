@@ -15,6 +15,7 @@ import android.widget.RadioGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
+    //ALUNO: MIGUEL LORDELLO DOS SANTOS
 public class MainActivity extends AppCompatActivity {
 
     private TextView lblTexto1;
